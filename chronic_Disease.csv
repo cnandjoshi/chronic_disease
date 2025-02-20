@@ -1,0 +1,52 @@
+Row Labels,Average of DataValue
+Alcohol,41
+2019,21
+2020,82
+2021,23
+Arthritis,31
+2019,31
+2021,26
+2022,43
+Asthma,31
+2019,29
+2020,49
+2021,9
+2022,7
+Cancer,781
+2015,1122
+2016,194
+Diabetes,9719
+2019,13690
+2020,308
+2021,13
+Disability,24
+2019,28
+2020,26
+2021,15
+2022,23
+Health Status,16
+2019,41
+2020,10
+2021,9
+Immunization,44
+2019,27
+2020,50
+2022,50
+Mental Health,21
+2019,24
+2020,24
+2021,13
+2022,24
+"Nutrition, Physical Activity, and Weight Status",42
+2021,42
+Oral Health,49
+2020,39
+2022,69
+Sleep,38
+2019,42
+2020,30
+2022,39
+Tobacco,16
+2019,17
+2020,15
+Grand Total,915
